@@ -4,8 +4,25 @@
     height: 100vh;
     color: rgb(0, 0, 0);
 }
- </button
-  .teste1 {
-    display: flex
-    justifycontent: center;
-  }
+ .cabecalho{
+    display:flex;
+    font-size: 35px;
+ }
+ .lista{
+    display:flex
+ }
+
+ .lista-item{
+    margin: left 50px;
+ }
+
+
+.lista-item{
+    display:flex
+    list-style-type:none;
+}
+
+.teste1{
+    display:flex;
+    justify-content: center;
+}
