@@ -16,12 +16,6 @@
     margin: left 50px;
  }
 
-
-.lista-item{
-    display:flex
-    list-style-type: none;
-}
-
 .teste1{
     display:flex;
     justify-content: center;
