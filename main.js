@@ -4,7 +4,7 @@ function mudarCorTexto(){
    
 }                                                   
                     
-function Cordefundo(){
+function CordeFundo(){
    
     document.querySelector("#p2").style.color= "aqua"
    
