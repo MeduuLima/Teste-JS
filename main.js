@@ -1,6 +1,6 @@
 function mudarCorTexto(){
    
-    document.querySelector("#p1").style.color= "pink"
+    document.querySelector("#p1").style.color= "chock pink"
    
 }                                                   
                     
