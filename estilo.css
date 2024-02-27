@@ -8,6 +8,7 @@
     display:flex;
     font-size: 35px;
  }
+
  .lista{
     display:flex
  }
@@ -20,6 +21,7 @@
     display:flex;
     justify-content: center;
 }
+
 .espacamento{
-   margin-left: 100px;
+   margin-left: 500px;
 }
