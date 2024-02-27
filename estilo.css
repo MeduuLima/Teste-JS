@@ -6,7 +6,7 @@
 }
  .cabecalho{
     display:flex;
-    font-size: 60px;
+    font-size: 35px;
  }
 
  .lista{
@@ -14,7 +14,7 @@
  }
 
  .lista-item{
-    margin: left 50px;
+    margin: left 70px;
  }
 
 .teste1{
