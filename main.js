@@ -6,6 +6,6 @@ function mudarCorTexto(){
                     
 function mudarCordefundo(){
    
-    document.querySelector("#p1").style.color= "aqua"
+    document.querySelector("#p2").style.color= "aqua"
    
 }                                            
